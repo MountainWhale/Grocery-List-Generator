@@ -1,0 +1,22 @@
+### Grocery List for 31/1/2021
+- [] sausage
+- [] rice
+- [] curry powder
+- [] beef stock
+- [] corn chips
+- [] cheese
+- [] tomato sauce
+- [] carrot
+- [] potato
+- [] butter
+- [] milk
+- [] salt
+- [] pepper
+- [] egg
+- [] bacon
+- [] mushroom
+- [] chicken
+- [] garlic
+- [] onion
+- [] capsicun
+- [] ham
